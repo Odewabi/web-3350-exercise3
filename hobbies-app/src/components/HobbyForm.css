@@ -1,0 +1,18 @@
+.hobby-form {
+  margin: 10px;
+  padding: 10px;
+}
+.form-control {
+  margin-bottom: 10px;
+}
+.form-control.invalid input {
+  border: 1px solid red;
+  background-color: #fbdada;
+}
+.error-text {
+  color: red;
+  font-size: 12px;
+}
+.form-actions button {
+  margin: 5px;
+}
